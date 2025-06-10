@@ -1,6 +1,6 @@
-# store_admin_app
+# Flutter_Store - Admin App
 
-A new Flutter project.
+Developed a Flutter project featuring an Admin App for product uploads (Excel/manual), order processing, and PDF invoice generation. A Customer App enables product Browse, cart management, and order confirmation. Backend powered by API with Firebase.
 
 ## Getting Started
 
